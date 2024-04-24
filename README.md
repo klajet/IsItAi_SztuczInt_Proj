@@ -3,6 +3,6 @@ Projekt na przedmiot Sztuczna Inteligencja. Wykrywanie czy obrazek jest wygenero
 
 
 ### Datasets 
-> https://www.kaggle.com/datasets/ravidussilva/real-ai-art?resource=download
-> https://www.kaggle.com/datasets/cashbowman/ai-generated-images-vs-real-images
-> https://www.kaggle.com/datasets/superpotato9/dalle-recognition-dataset?select=fakeV2
+> https://www.kaggle.com/datasets/ravidussilva/real-ai-art?resource=download <br>
+> https://www.kaggle.com/datasets/cashbowman/ai-generated-images-vs-real-images <br>
+> https://www.kaggle.com/datasets/superpotato9/dalle-recognition-dataset?select=fakeV2 <br>
