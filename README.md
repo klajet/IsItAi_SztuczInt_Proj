@@ -1,4 +1,4 @@
-# IsItAi_SztuczInt_Proj
+# MaskNoMask_SztuczInt_Proj
 Projekt na przedmiot Sztuczna Inteligencja. Wykrywanie maseczek na twarzy.
 
 
