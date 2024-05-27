@@ -8,11 +8,6 @@ Projekt na przedmiot Sztuczna Inteligencja. Wykrywanie maseczek na twarzy.
 > https://www.kaggle.com/datasets/sumansid/facemask-dataset <br>
 > https://www.kaggle.com/datasets/omkargurav/face-mask-dataset <br>
 
-> ~~https://www.kaggle.com/datasets/ravidussilva/real-ai-art?resource=download~~ <br>
-> ~~https://www.kaggle.com/datasets/cashbowman/ai-generated-images-vs-real-images~~ <br>
-> ~~https://www.kaggle.com/datasets/superpotato9/dalle-recognition-dataset?select=fakeV2~~ <br>
-
-
 
 ### Przydatne Linki
 > https://www.tensorflow.org/tutorials/load_data/images?hl=pl#continue_training_the_model <br>
